@@ -1,6 +1,6 @@
 # IT Portfolio
 
-Hi, I'm Ruchir, an [IT Professional](https://linkedin.com/in/RuchirChawdhry).
+Hi, I'm Ruchir - an [IT Professional](https://linkedin.com/in/RuchirChawdhry).
 
 ## Information Technology Projects:
 
