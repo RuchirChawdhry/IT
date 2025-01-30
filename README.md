@@ -14,7 +14,6 @@ Hi, I'm Ruchir, an [IT Professional](https://linkedin.com/in/RuchirChawdhry).
 - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/RuchirChawdhry/IT/Azure/azure-network-protocols)
 
 ## Connect with me:
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[linkedin]
+[<img align="left" alt="Ruchir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/RuchirChawdhry
